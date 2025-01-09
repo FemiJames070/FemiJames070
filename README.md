@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FemiJames070  
+- 👋 Hi, I’m **Femi James**  
 - 👀 I’m interested in data analytics, predictive modeling, and using technology to solve real-world problems.  
 - 🌱 I’m currently learning advanced data visualization techniques and machine learning algorithms.  
 - 💞️ I’m looking to collaborate on data-driven projects that focus on sustainability, energy markets, or innovative solutions to business challenges.  
