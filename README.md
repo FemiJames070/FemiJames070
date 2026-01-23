@@ -2,7 +2,7 @@
 
 ### I engineer AI digital operating systems that turn manual industries into AI-driven markets.
 
-[![Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-0366d6?style=for-the-badge&logo=github)](https://femijames070.github.io/FemiJames070/) &nbsp; [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/femijames/)
+[![Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-0366d6?style=for-the-badge&logo=github)](https://femijames070.github.io/) &nbsp; [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/femijames/)
 
 ---
 
