@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 I am a **Senior Full-Stack Engineer & AI Architect** based in **Calgary, AB**. I specialize in bridging the gap between "Customer Demand" and "Operational Execution" by building multi-tenant, asset-light platforms with governance and ethics built in.
 
-My focus isn't just on training models; it's on **orchestrating entire lifecycles**—from raw data ingestion to FDA-compliant MLOps deployment.
+My focus isn't just on training models; it's on **orchestrating entire lifecycles**, from raw data ingestion to FDA-compliant MLOps deployment.
 
 * 🔭 **I’m currently building:** Enterprise-grade AI Operating Systems (MESS Tracker).
 * 🏛️ **I specialize in:** Multi-tenant SaaS Architecture, Governance-as-Code (MLflow), and End-to-End AI Pipelines.
