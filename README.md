@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Senior Full-Stack Engineer & AI Architect** based in **Calgary, AB**. I specialize in bridging the gap between "Customer Demand" and "Operational Execution" by building multi-tenant, asset-light platforms with governance and ethics built in.
+I am a **Full-Stack Engineer & AI Architect** based in **Calgary, AB**. I specialize in bridging the gap between "Customer Demand" and "Operational Execution" by building multi-tenant, asset-light platforms with governance and ethics built in.
 
 My focus isn't just on training models; it's on **orchestrating entire lifecycles**, from raw data ingestion to FDA-compliant MLOps deployment.
 
@@ -50,6 +50,6 @@ My focus isn't just on training models; it's on **orchestrating entire lifecycle
 ---
 
 ### 📬 Let's Connect
-Available for **Senior Engineering & Platform Leadership** roles.
+Available for **Product Engineering & Management** roles.
 
 [Email Me](mailto:femijames070@gmail.com) • [LinkedIn](https://www.linkedin.com/in/femijames/)
