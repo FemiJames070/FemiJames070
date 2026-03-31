@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a data professional based in Calgary, AB, specializing in the intersection of data analytics and artificial intelligence. I focus on managing the full data lifecycle—from engineering automated ETL/ELT pipelines to delivering actionable, predictive insights for stakeholders. 
+I am a data professional based in Alberta, CA specializing in the intersection of data analytics and artificial intelligence. I focus on managing the full data lifecycle—from engineering automated ETL/ELT pipelines to delivering actionable, predictive insights for stakeholders. 
 
 My goal is to transform complex datasets into scalable, automated solutions that drive operational efficiency and informed decision-making.
 
