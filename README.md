@@ -40,15 +40,6 @@ My focus isn't just on training models; it's on **orchestrating entire lifecycle
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FemiJames070&show_icons=true&theme=radical&hide_border=true" alt="FemiJames070's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FemiJames070&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Let's Connect
 Available for **Product Engineering & Management** roles.
 
