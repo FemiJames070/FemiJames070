@@ -1,25 +1,25 @@
 # Hi there, I'm Femi James. 👋
 
-### I engineer AI digital operating systems that turn manual industries into AI-driven markets.
+### Data & Business Analyst | Integrated AI Specialist
 
 [![Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-0366d6?style=for-the-badge&logo=github)](https://femijames070.github.io/) &nbsp; [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/femijames/)
 
 ---
 
 ### 👨‍💻 About Me
-I am a **Full-Stack Engineer & AI Architect** based in **Calgary, AB**. I specialize in bridging the gap between "Customer Demand" and "Operational Execution" by building multi-tenant, asset-light platforms with governance and ethics built in.
+I am a data professional based in Calgary, AB, specializing in the intersection of data analytics and artificial intelligence. I focus on managing the full data lifecycle—from engineering automated ETL/ELT pipelines to delivering actionable, predictive insights for stakeholders. 
 
-My focus isn't just on training models; it's on **orchestrating entire lifecycles**, from raw data ingestion to FDA-compliant MLOps deployment.
+My goal is to transform complex datasets into scalable, automated solutions that drive operational efficiency and informed decision-making.
 
-* 🔭 **I’m currently building:** Enterprise-grade AI Operating Systems (MESS Tracker).
-* 🏛️ **I specialize in:** Multi-tenant SaaS Architecture, Governance-as-Code (MLflow), and End-to-End AI Pipelines.
-* 💬 **Ask me about:** System Design, Django/Python, MLOps, and Clinical AI.
+* 🔭 **Currently:** Building data-driven applications and prototyping analytical approaches using the CRISP-DM framework.
+* 🎓 **Background:** Post-Graduate Certificates in Data Analytics and Integrated Artificial Intelligence (SAIT).
+* 💬 **Ask me about:** SQL, Python, Power BI, and transitioning manual workflows into proactive enterprise models.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Skills
 
-| **Core Infrastructure** | **AI & Data Science** | **DevOps & MLOps** |
+| **Data & Engineering** | **AI & Analytics** | **Cloud & MLOps** |
 |:--- |:--- |:--- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
@@ -28,19 +28,19 @@ My focus isn't just on training models; it's on **orchestrating entire lifecycle
 
 ### 🏆 Featured Projects
 
-#### ♻️ [MESS Tracker (Flagship)](https://femijames070.github.io/FemiJames070/)
-*The Asset-Light Operating System for Waste Management*
-> A multi-tenant SaaS that orchestrates 98+ micro-services to automate logistics using Vision, NLP, and Time-Series forecasting.
-> * **Stack:** Django, Celery, Redis, YOLOv11.
+#### ♻️ [MESS Tracker](https://femijames070.github.io/FemiJames070/)
+*AI-Driven Platform for Waste Management*
+> A data-centric Flask application designed to optimize logistics and streamline waste management processes using predictive modeling, NLP, and time-series analysis. 
+> * **Stack:** Python, Flask, Machine Learning
 
 #### 🏥 [StrokeRisk AI System](https://github.com/FemiJames070/StrokeRisk_Tool)
-*Clinical Decision Support & MLOps Governance*
-> An FDA-aligned predictive system featuring a Soft-Voting Ensemble model and immutable audit trails via MLflow.
-> * **Stack:** Python, Streamlit, MLflow, SMOTE.
+*Clinical Decision Support Tool*
+> A predictive analytics tool built to assist with clinical decision-making, utilizing machine learning models and MLflow for reliable experiment tracking.
+> * **Stack:** Python, Streamlit, MLflow, Scikit-Learn
 
 ---
 
 ### 📬 Let's Connect
-Available for **Product Engineering & Management** roles.
+I am currently open to new opportunities in Data Analysis, Business Intelligence, and Junior Data Science roles.
 
 [Email Me](mailto:femijames070@gmail.com) • [LinkedIn](https://www.linkedin.com/in/femijames/)
